@@ -1,0 +1,14 @@
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.exe
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.deps.json
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.runtimeconfig.json
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.runtimeconfig.dev.json
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.dll
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.pdb
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.csproj.AssemblyReference.cache
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.AssemblyInfoInputs.cache
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.AssemblyInfo.cs
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.dll
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.pdb
+C:\Users\oem\Documents\Visual Studio 2019\Projects\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.genruntimeconfig.cache
